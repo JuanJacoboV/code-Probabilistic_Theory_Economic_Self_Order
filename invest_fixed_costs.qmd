@@ -1,5 +1,5 @@
 ---
-title: "Online Appendix for: Recursive Macroeconomics as Probability Theory (Section 4.2)"
+title: "Online Appendix for: A Probabilistic Theory of Economic Self-Order (Section 4.2)"
 author:
   - name: Juan Jacobo
     orcid: 0000-0001-7878-0266
@@ -7,7 +7,7 @@ author:
     affiliation: 
       - name: Universidad Externado de Colombia
         city: Bogotá
-abstract: "This document describes the code solving the probabilistic models in Recursive Macroeconomics as Probability Theory."
+abstract: "This document describes the code solving the probabilistic models in A Probabilistic Theory of Economic Self-Order."
 license: "CC BY"
 copyright: 
   holder: Juan Jacobo 
